@@ -1,0 +1,16 @@
+{
+  "gesten": {
+    "Kreis": {
+      "type": "url",
+      "target": "https://www.youtube.com/watch?v=swCTbz5sIQM"
+    },
+    "Rechteck": {
+      "type": "url",
+      "target": "https://youtube.com"
+    },
+    "Quadrat": {
+      "type": "url",
+      "target": "com.safakge.radyokulesi/.activity.MainActivity"
+    }
+  }
+}
